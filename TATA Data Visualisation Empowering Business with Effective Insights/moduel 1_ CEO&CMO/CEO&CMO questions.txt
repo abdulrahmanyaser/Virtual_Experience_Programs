@@ -1,0 +1,19 @@
+CEO:
+
+What is the best country in terms of revenue?
+
+What is the best year in revenue?
+
+What are the highest stocks in revenue?
+
+What is the highest customer in terms of revenue?
+
+CMO:
+
+How the defective/non sold stocks affect revenue?
+
+What is the relation between revenue and unit price (any discounts needed)?
+
+What are the most sold stocks in both years? What is the most repeated selling stock?
+
+How many customers are VIP and how many are regular?
