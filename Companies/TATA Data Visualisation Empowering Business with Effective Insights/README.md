@@ -27,7 +27,7 @@
 #### Data Viusal: utilizing tableau for making the dashboard 
 #### pls check module 2 for the TWB  
 #### Communicating Insights and Analysis:
-      Developing a script and record a video presenting your findings to the CEO and CMO.
+      Developing a script and record a video presenting the findings to the CEO and CMO.
 
 
 
