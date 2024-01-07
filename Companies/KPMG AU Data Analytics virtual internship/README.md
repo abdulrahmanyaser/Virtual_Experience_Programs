@@ -12,9 +12,13 @@
 it is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
 
-### The client provided KPMG with 3 datasets:
-  #### 1-Customer Demographic.
-  #### 2-Customer Addresses.
-  #### 3-Transactions data in the past 3 months.
+## my task is to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+
+  ### Break Down:
+  #### Data Acquisition:
+      The client provided KPMG with 3 datasets:  
+        1-Customer Demographic.  
+        2-Customer Addresses.  
+        3-Transactions data in the past 3 months.  
+  #### Data Preparation: 
   
-  my task is to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
