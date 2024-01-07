@@ -20,11 +20,18 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
         1-Customer Demographic.  
         2-Customer Addresses.  
         3-Transactions data in the past 3 months.  
-  #### Data Preparation: 
+  #### Data Preparation: utilized excel to do the next:  
       1- Data Cleaning: This involves removing missing values, formatting data types, standardizing data values, and removing redundant columns.  
       2- Data Transformation: This includes converting certain fields to appropriate data types such as numbers or dates.  
       3- Data Reduction: This is done by removing unnecessary columns from the datasets.  
       4- Data Discretization: This is implied when the author suggests unifying different forms of data, such as male/female in the gender field and different     
-      abbreviations of state names in the state field.  
+      abbreviations of state names in the state field.
+  #### pls check module 1 for the detailed email.
 
+  ### Data Analysis: utilized pdf for the presentation and excel for the exploration and the modeling
+      1- introduction to the problem
+      2- data exploration  
+      3- model development: RFM analysis
+      4- interpretation
+  ### pls check module 2 for the pdf presentation.
   
