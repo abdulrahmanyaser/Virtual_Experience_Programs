@@ -21,4 +21,10 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
         2-Customer Addresses.  
         3-Transactions data in the past 3 months.  
   #### Data Preparation: 
+      1- Data Cleaning: This involves removing missing values, formatting data types, standardizing data values, and removing redundant columns.  
+      2- Data Transformation: This includes converting certain fields to appropriate data types such as numbers or dates.  
+      3- Data Reduction: This is done by removing unnecessary columns from the datasets.  
+      4- Data Discretization: This is implied when the author suggests unifying different forms of data, such as male/female in the gender field and different     
+      abbreviations of state names in the state field.  
+
   
