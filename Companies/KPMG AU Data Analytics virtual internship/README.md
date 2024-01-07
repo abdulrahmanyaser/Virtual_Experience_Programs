@@ -31,7 +31,16 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
   ### Data Analysis: utilized pdf for the presentation and excel for the exploration and the modeling
       1- introduction to the problem
       2- data exploration  
-      3- model development: RFM analysis
+  ![FVSM](https://github.com/abdulrahmanyaser/Virtual_Experience_Programs/assets/74540804/619a4010-7c81-416f-b8a9-1180aa411d43)
+
+      3- model development: RFM analysis  
+  ![Screenshot 2024-01-07 053508](https://github.com/abdulrahmanyaser/Virtual_Experience_Programs/assets/74540804/20df83c0-55b6-4960-8e05-3517279f9f1e)
+
       4- interpretation
-  ### pls check module 2 for the pdf presentation.
+  ### pls check module 2 for the pdf presentation.  
+
+
+  ### Data Vis: utilizing tableau to develop dashboards to communicate findings with visuals.
+  ### check module 3 for the TWB
+  
   
